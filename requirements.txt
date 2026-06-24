@@ -1,0 +1,6 @@
+# Entorno mínimo para paso3_modelo_crudo.py (pipeline completo) y paso1
+tensorflow>=2.14,<3
+numpy>=1.24
+librosa>=0.10
+kagglehub>=0.2
+pandas>=2.0
